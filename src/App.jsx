@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-    <BrowserRouter>
+    <BrowserRouter basename="/vite-react-crud">
     <Routes>
       <Route path='/' element={<Home />}></Route>
       <Route path='/create' element={<Create />}></Route>
