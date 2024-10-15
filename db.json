@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Aarya Deshmukh",
+      "email": "aaryad@gmail.com",
+      "phone": "7218203605"
+    },
+    {
+      "id": "2",
+      "name": "Snehal Rahane",
+      "email": "snehalrahane02@gmail.com",
+      "phone": "9090909070"
+    },
+    {
+      "id": "3",
+      "name": "Swaraj Rathod",
+      "email": "swarajra@gmail.com",
+      "phone": "8080708080"
+    },
+    {
+      "id": "4",
+      "name": "Rugved Thombare",
+      "email": "rugvedthom@gmail.com",
+      "phone": "9049499093"
+    },
+    {
+      "id": "5",
+      "name": "Swami Devkar",
+      "email": "swamidevkar@gmail.com",
+      "phone": "8080408080"
+    },
+    {
+      "id": "6",
+      "name": "Pranali Gokhle",
+      "email": "pranali@gmail.com",
+      "phone": "6218803603"
+    },
+    {
+      "id": "7",
+      "name": "Ram Rane",
+      "email": "ram@gmail.com",
+      "phone": "0721820367"
+    }
+  ]
+}
